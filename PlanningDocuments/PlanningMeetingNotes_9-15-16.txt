@@ -1,0 +1,96 @@
+Project Plan for Master's Thesis
+
+Start -> Lit Review
+	What I will Be Doing:
+		Looking for novel problems in the literature related to array signal processing
+	What I will Need:
+		Places to start looking for unanswered questions in the literature
+	Deliverables:
+		Paper Lit Review (Draft)
+		Beamforming Tutorial to Me
+	Time Frame for Lit Review/Bootcamp Completion:
+	
+Lit Review -> Question
+	What I will Be Doing:
+		Question Formulation/Development/Revision
+		Problem Scope Definition
+	What I will Need:
+		Keeping the question:
+			Novel
+			Answerable (Achievable)
+	Deliverables:
+		Paper Introduction (Draft)
+		Paper Lit Review (Draft, focused to Question)
+	Time Frame for Completion:
+	
+Question -> Hypothesis/Simulation
+	What I will Be Doing:
+		Understanding the problem conceptually
+		Developing a model for the situation
+		Testing my hypothesis in the model (this would pair nicely with the term project for Sci Comp I with Dr. Gowtham)
+		Iterating when my first models/hypotheses aren't right...
+	What I will Need:
+		Sounding Board:
+			Are my assumptions reasonable? What might happen if it turns out they aren't?
+			Does my understanding of the situation match with the real world?
+			What have I not considered?
+		Model Development Support
+	Deliverables:
+		Paper Model Section (Draft), including:
+			Hypothesis Evolution
+			Conceptual Understanding
+			Model Results
+		Paper Analysis Section (Outline, experiment should be similar to simulation)
+	Time Frame for Completion:
+	
+Hypothesis/Simulation -> Experimental Verification
+	What I will Be Doing:
+		Designing an experiment (based on the simulations) to verify the simulation results
+		Acquiring/Setting Up Hardware
+		Developing Software
+		Calibrating/Validating Instruments
+		Running the Experiment
+		Analysing the Results
+		Iterating...
+	What I will Need:
+		Experimental Design Advice (does this match my simulation assumptions/have I controlled enough variables?)
+		Experiment Debugging Help
+	Deliverables:
+		Paper Methods Section (Draft)
+		Paper Analysis Section (Draft from Outline)
+		Paper Results Section
+	Time Frame for Completion:
+		
+Experimental Verification -> Results Interpretation
+	What I will Be Doing:
+		Comparing experimental and simulated results
+			Developing statistical comparisons
+			Drawing conclusions from the statistical comparisons
+	What I will Need:
+		Statistics Double-Check
+		Conclusions Double-Check
+		Paper Revisions
+	Deliverables:
+		Paper Conclusions Section (Draft)
+		2nd + 3rd ("Final Pre-Review") Draft, All Sections
+	Time Frame for Completion:
+	
+Results Interpretation -> Paper Submission
+	What I will Be Doing:
+		Submitting Paper for Peer-Review Process
+		Responding to Reviewer Feedback
+	What I will Need:
+		Help Addressing Reviewer Feedback
+	Deliverables:
+		Paper Accepted for Publication to a Leading Peer-Reviewed Journal
+	Time Frame for Completion:
+	
+Paper Submission -> Thesis Development
+	What I will Be Doing:
+		Extending my Paper into a Thesis
+	What I will Need:
+		Suggestions/Requirements for Additional Content
+		Continued Editing Support
+	Deliverables:
+		Thesis Accepted for Publication
+	Time Frame for Completion:
